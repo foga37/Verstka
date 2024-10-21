@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    box-sizing: border-box;
+    color: rgba(33, 36, 41, 1);
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Cormorant", serif;
+    font-size: 2vw;
+    color: rgba(33, 36, 41, 1);
+    font-weight: 500;
+}
+body {
+    background-color: rgba(222, 222, 222, 1);
+    
+}
+.conteiner {
+    background-color: rgba(252, 252, 252, 1);
+    width: 100%;
+    max-width: 1520px;
+    margin: auto;
+    margin-top: 51px;
+    overflow: hidden;
+}
+
